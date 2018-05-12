@@ -1,10 +1,16 @@
 _repo: Ahi-Giacometta-la-tua-ghirlandella_49837
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49837-h/images/cover.jpg
 creator:
   author:
     agent_name: Beltramelli, Antonio
     gutenberg_agent_id: '45566'
     url: http://www.gutenberg.org/2009/agents/45566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49837#Ahi-Giacometta-la-tua-ghirlandella
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-08-31'
 gutenberg_type: Text
